@@ -85,3 +85,7 @@ int main(){
     int tt; cin >> tt; while(tt--)
 {solve();};
 }
+
+
+// SUBMISSION LINK
+//https://codeforces.com/contest/1560/submission/355199870
