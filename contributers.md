@@ -46,5 +46,6 @@
 | Sayed Al Amaan Zaidi           | amaan1114           | Rishihood University                                   |
 |Aditya Singh            | adityasingh-0803         | BVDUCOEP                                                        |
 | Ishan Raj Singh        | ishanrajsingh            | Amity, Noida                                                    |
+|  Aman Kumar Mehta      |AmanMehta22               |Amity ,Jhakrhand                                                 |
 <!-- ADD ABOVE THIS -->
 <!-- example | Korvac | Betty | Reyansh College | -->
